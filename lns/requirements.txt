@@ -1,0 +1,9 @@
+numpy>=1.24
+pandas>=2.0
+
+# Опционально: OR-Tools (task_3_ortools_reference.py)
+# ortools>=9.10
+
+# Опционально: MIP day1 из external (PuLP + HiGHS)
+# pulp>=2.7
+# highspy
